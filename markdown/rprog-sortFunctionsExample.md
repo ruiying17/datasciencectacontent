@@ -1,3 +1,4 @@
+very useful
 Some students have trouble with the third programming assignment in *R Programming* because they struggle with sorting the data in the correct order. Here is an example of how to use two different R functions to sort the Motor Trend Cars data set from the `datasets` package.
 
     > library(datasets)
